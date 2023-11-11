@@ -1,23 +1,22 @@
-
-###🚗 Self-Driving Car DQN
+##🚗 Self-Driving Car DQN
 Welcome to the Self-Driving Car DeepQ Learning Neural Network project! 🤖🚗 This repository contains a Python-based implementation of a self-driving car simulation using a Deep Q Learning (DQN) neural network. The car learns to navigate through a simulated environment, making decisions based on its training.
 
-🚀 Quick Start
+###🚀 Quick Start
 Clone the repository:
 
-bash
+Bash
 Copy code
 git clone https://github.com/your-username/self-driving-car-dqn.git
 cd self-driving-car-dqn
 Run the simulation:
 
-bash
+Bash
 Copy code
 python self_driving_car.py
 🎮 Usage
 Control and observe the self-driving car simulation using the self_driving_car.py script. The neural network learns to drive based on the input from the environment.
 
-bash
+Bash
 Copy code
 python self_driving_car.py
 📋 Dependencies
